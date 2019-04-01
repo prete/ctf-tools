@@ -3,3 +3,4 @@
 
 # Awesome list
 * [CTF Katana](https://github.com/JohnHammond/ctf-katana)
+* [CTF Tools (zardus)](https://github.com/zardus/ctf-tools)
