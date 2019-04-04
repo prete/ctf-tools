@@ -2,6 +2,7 @@
 
 ## Online Tools
 * [CyberChef - The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
+* [Cryptii - modular conversion, encoding and encryption online](https://cryptii.com/)
 
 ## Awesome list
 * [CTF Katana](https://github.com/JohnHammond/ctf-katana)
